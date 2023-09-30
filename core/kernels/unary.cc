@@ -4,6 +4,6 @@ using namespace std;
 
 namespace wjy {
 namespace kernels {
-void Abs(tensor& input, tensor& output) {}
+void Abs(Tensor& input, Tensor& output) {}
 }  // namespace kernels
 }  // namespace wjy
